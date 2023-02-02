@@ -26,3 +26,7 @@
 
 ## Show commit.
 *git show hash_commit* - просмотр полного списка изменений, внесенных конкретным комитом;
+
+## List of deleted branches.
+
+*git branch -a* - вывод списка удаленных веток;
