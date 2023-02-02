@@ -27,6 +27,6 @@
 ## Show commit.
 *git show hash_commit* - просмотр полного списка изменений, внесенных конкретным комитом;
 
-## List of deleted branches.
+## Rolling back a commit.
 
-*git branch -a* - вывод списка удаленных веток;
+*git revert* - отменяет изменения, записанные только одним коммитом;
