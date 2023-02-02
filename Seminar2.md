@@ -30,3 +30,7 @@
 ## Rolling back a commit.
 
 *git revert* - отменяет изменения, записанные только одним коммитом;
+
+## Viewing changes.
+
+*git diff --staged* - просмотр подготовленных изменений;
